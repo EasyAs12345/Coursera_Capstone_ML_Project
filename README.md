@@ -1,1 +1,1 @@
-# Coursera_Capstone_ML_Project
+# Coursera_Capstone_Project
